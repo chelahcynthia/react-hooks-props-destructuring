@@ -13,14 +13,14 @@ _destructuring_ and how to give our props _default values_.
 
 ## Reviewing What We Know
 
-Props allow us to pass values into our components. These values can be anything:
+<!-- Props allow us to pass values into our components. These values can be anything:
 strings, objects (including arrays and functions), and so on. They give us the
 opportunity to make our components more dynamic, and a **lot more** reusable.
 
 For example, say we have a `<MovieCard />` component. A movie has a title, a
 poster image, and many other attributes (or **prop**-erties!). Let's examine
 what this `<MovieCard />` component would look like with hardcoded, _static_
-data vs. dynamic _prop_ data. Here's the **static, hard-coded version**:
+data vs. dynamic _prop_ data. Here's the **static, hard-coded version**: -->
 
 ```jsx
 function MovieCard() {
